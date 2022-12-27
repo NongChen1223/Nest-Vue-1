@@ -19,7 +19,7 @@
                 </el-form>
             </el-tab-pane>
         </el-tabs>
-    </div>
+        /div>
 </template>
 
 <script setup lang="ts">
@@ -28,7 +28,7 @@ const form = reactive({
     Email: "",
     password: "",
     isAgree: 0,
-});
+;
 
 
 
